@@ -21,6 +21,7 @@ h1, h2 {
    color:black;
    letter-spacing: 3px;
    text-transform: uppercase;
+   margin-left: 20px;
 }
 
 #title {
@@ -53,4 +54,14 @@ text-decoration: none;
     border-bottom: 1px solid black;
    
 }
+
+#colorpens {
+    height: 800px;
+    width: 100%;
+    background: url('../images/art.jpg') no-repeat center center;
+    background-position: center;
+    background-size: cover;
+}
+
+
 
