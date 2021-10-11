@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans&family=Oswald&family=Poppins:wght@300&family=Roboto:wght@300&family=Scheherazade+New&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+body {
+    font-family: lato, sans-serif; 
+    font-weight: 300;
+    color: #5e5e5e;
+}
+
+/* headings nad logo style */
+
+h1, h2 {
+   font-family: Poppins, sans-serif;
+   color:black;
+   letter-spacing: 3px;
+   text-transform: uppercase;
+}
+
+#title {
+    font-size: 250%;
+float: left;
+}
+
+/* Navigation links */
+
+#links {
+    Font-size:100% ;
+    letter-spacing: 3px;
+}
+
+#links, #title {
+    line-height: 80px;
+}
+
+#links li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#links a {
+text-decoration: none;
+}
+
+#links a:hover {
+    border-bottom: 1px solid black;
+   
+}
+
