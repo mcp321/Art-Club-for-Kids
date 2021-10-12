@@ -16,7 +16,7 @@ body {
 
 /* headings nad logo style */
 
-h1, h2 {
+h1 {
    font-family: Poppins, sans-serif;
    color:rgb(116, 65, 65);
    letter-spacing: 3px;
@@ -64,14 +64,7 @@ text-decoration: none;
     background-position-y: 0;
 }
 
-#about {
-    background-color: #f8f8f8;
-    height: 600px;
-    color: rgb(31, 16, 238);
-    font-size: 300%;
-    font-weight: bold;
-    
-}
+
 
 #creative {
     font-family: cursive; 
@@ -92,13 +85,62 @@ text-decoration: none;
     background-position: right;
     background-size: 50%;
     margin: 10px;
+    height: 600px;
+    font-size: 300%;
+    font-weight: bold;}
+
+#about-t {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+#para {
+    font-size: 20px;
     
 }
 
-#about-t {
-    color: grey;
-    text-transform: capitalize;
+#table{
+    color:black;
+    text-align: left;
+    font-size: 40px;
+}
+
+table{
+    border: 1px solid black;
 }
 
 
+/* gallery section */
 
+#artgallery{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+    padding-top: 0;
+}
+
+#artgallery > img{
+    width: 100%;
+}
+
+footer {
+    height: 150px;
+}
+
+/* social media section */
+
+.links {
+    text-align: center;
+}
+
+.links > li {
+    display: inline;
+}
+
+.links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
+}
