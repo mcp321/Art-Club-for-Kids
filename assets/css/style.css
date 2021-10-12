@@ -106,8 +106,27 @@ text-decoration: none;
 }
 
 table{
+    margin-top: 35px;
     border: 1px solid black;
 }
+
+
+/* activities section */
+
+#activities {
+    margin-top: 60px;
+    font-size: 35px;
+    margin-bottom: 10px;
+    height: 600px;
+    width: 100%;
+}
+
+.frame1 {
+    width: auto;
+    padding: 80px;
+    margin: auto;
+}
+
 
 
 /* gallery section */
@@ -124,24 +143,70 @@ table{
     width: 100%;
 }
 
-footer {
-    height: 150px;
-}
 
 /* social media section */
 
-.links {
-    background-color: beige;
+footer {
+    background: rgb(0, 0, 0);
+    height: auto;
+    width: 100vw;
+    font-family: "open sans";
+    padding-top: 10px;
+    color: #fff;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
 }
 
-.links > li {
-    display: inline;
+.footer-content h3 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
 }
 
-.links i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: black;
+.footer-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 60px;
+    font-size: 14px;
 }
+
+.socials    {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding-bottom: 35px;
+}
+
+.socials li {
+    margin: 10px;
+    padding: 0;
+}
+
+.socials a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.socials a i{
+font-size: 2rem;
+transition: color .4s ease;
+}
+
+.socials a:hover i{
+    color: aqua;
+}
+
+
+
+
+
+
