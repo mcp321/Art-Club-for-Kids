@@ -99,15 +99,10 @@ text-decoration: none;
     
 }
 
-#table{
-    color:black;
-    text-align: left;
-    font-size: 40px;
-}
+
 
 table{
     margin-top: 35px;
-    border: 1px solid black;
 }
 
 
@@ -141,6 +136,19 @@ table{
 
 #artgallery > img{
     width: 100%;
+}
+
+
+/* table of activities section */
+
+#tableA{
+    border:black;
+    font-size: 20px;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+    text-align: left;
+    box-decoration-break: 2px solid black;
 }
 
 
