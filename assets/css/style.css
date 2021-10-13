@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans&family=Oswald&family=Poppins:wght@300&family=Roboto:wght@300&family=Scheherazade+New&display=swap');
 
 
-*{
-    margin: 0;
-    padding: 0;
-    border: none;
-}
+*{margin: 0;}
 
 
 body {
+    margin: 0;
     font-family: lato, sans-serif; 
     font-weight: 300;
     color: black;
@@ -79,44 +76,47 @@ text-decoration: none;
 /* about us section */
 
 
-
-#about {
-    background: url('../images/cover.jpeg') no-repeat center left;
-    background-position: right;
-    background-size: 50%;
-    margin: 10px;
-    height: 600px;
-    font-size: 300%;
-    font-weight: bold;}
-
-#about-t {
-    color: rgb(0, 0, 0);
-    font-size: 40px;
+#about{
+    background-color: blanchedalmond;
+    height: 70%;
+    width: 100%;
 }
+
+#about-image{
+   position: relative;
+   left: 60%;
+    text-align: right;
+
+
+}
+
+
 
 #para {
-    font-size: 30px;
-    
-}
+        font-size: 20px;
+        width: 50%;
+    }
 
+    #time {
+        font-size: 20px;
+    }
 
-
-table{
-    margin-top: 35px;
-}
 
 
 /* activities section */
 
 #activities {
-    margin-top: 60px;
+    text-align: center;
+    background-color: blanchedalmond;
+    margin-top: 5px;
     font-size: 35px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     height: 600px;
     width: 100%;
 }
 
 .frame1 {
+    font-size: 20px;
     width: auto;
     padding: 80px;
     margin: auto;
@@ -134,6 +134,10 @@ table{
     padding-top: 0;
 }
 
+#gallerybody {
+    background-color: blanchedalmond;
+}
+
 #artgallery > img{
     width: 100%;
 }
@@ -141,15 +145,24 @@ table{
 
 /* table of activities section */
 
-#tableA{
-    border:black;
+
+
+#tableA {
     font-size: 20px;
-    margin: auto;
-    width: 500px;
-    padding: 20px;
-    text-align: left;
-    box-decoration-break: 2px solid black;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    background-color: rgb(218, 204, 17);
 }
+
+
+
+
+
+
+
 
 
 /* social media section */
