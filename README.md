@@ -30,6 +30,8 @@ This section will allow the user to easily navigate from page to page across all
 </li>
 </ul>
 
+<img src="assets/images/page-links.png">
+
 
 
 <h2>The Landing Page image</h2>
@@ -37,6 +39,7 @@ This section will allow the user to easily navigate from page to page across all
 <li>The landing page image contains colored pencils picture with a phrase "Lets unleash your child's creative mind."
 for me it’s a very strong catch phrase it grabs the attention of the parents who like to enroll their kids to the art class.</li>
 </ul>
+<img src="assets/images/hero-image.png">
 
 
 <h2>About us</h2>
@@ -45,15 +48,20 @@ for me it’s a very strong catch phrase it grabs the attention of the parents w
 it also contains our weekly schedule time and day. It also has a picture of kid happily doing art to excite the parents to enroll their child.
 </li>
 </ul>
+<img src="assets/images/about.png">
 
 <h2>Daily Activities</h2>
 <ul>
 <li>This section provides The parents with information about the different art classes that we offer,
 they may choose from drawing class, painting class and coloring class based on the age and the likes of their kids.</li>
 </ul>
+<img src="assets/images/activities.png">
 
 <h2>Footer</h2>
 This section contains our social media handles where the parents can see the classrooms environment and the activities of the  kids through our social media accounts.
+
+
+<img src="assets/images/footer.png">
 
 <h2>Gallery</h2>
 <ul>
@@ -62,6 +70,8 @@ This section is important because it shows the children working on their artwork
 also can see the class room environment where their children are at.
 </li>
 </ul>    
+
+<img src="assets/images/gallery.png">
 
 
 <h2>Features left to implement</h2>
