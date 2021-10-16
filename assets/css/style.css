@@ -101,6 +101,8 @@ h1 {
 
 }
 
+/* about us section */
+
 #about {
     align-items: center;
     background-color: blanchedalmond;
@@ -133,7 +135,7 @@ h1 {
 
 }
 
-
+/* Activities section */
 
 
 #activities {
@@ -213,7 +215,8 @@ td {
 }
 
 
-
+/* Footer section */
+/* heavily relied on youtube tutorial from code opacity youtube page */
 
 footer {
     background: blanchedalmond;
