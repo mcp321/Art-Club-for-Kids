@@ -80,7 +80,11 @@ just by summiting their name and email address.</li>
 </ul>
 
 
-<h2>Testing</h2>(waitig for metor for i dont understand the tested file on where to fix bugs)
+<h2>Validation Testing</h2>
+<ul>
+<li>No Errors found on HTML</li>
+<li>No Errors found on CSS</li>
+</ul>
 
 
 
