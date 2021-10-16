@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans&family=Oswald&family=Poppins:wght@300&family=Roboto:wght@300&family=Scheherazade+New&display=swap');
 
 
-*{margin: 0;}
+* {
+    margin: 0;
+}
 
 
 body {
     margin: 0;
-    font-family: lato, sans-serif; 
+    font-family: lato, sans-serif;
     font-weight: 300;
     color: black;
 }
@@ -14,26 +16,27 @@ body {
 /* headings nad logo style */
 
 h1 {
-   font-family: Poppins, sans-serif;
-   color:rgb(116, 65, 65);
-   letter-spacing: 3px;
-   text-transform: uppercase;
-   margin-left: 20px;
+    font-family: Poppins, sans-serif;
+    color: rgb(116, 65, 65);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-left: 20px;
 }
 
 #title {
     font-size: 250%;
-float: left;
+    float: left;
 }
 
 /* Navigation links */
 
 #links {
-    Font-size:100% ;
+    Font-size: 100%;
     letter-spacing: 3px;
 }
 
-#links, #title {
+#links,
+#title {
     line-height: 80px;
 }
 
@@ -44,12 +47,12 @@ float: left;
 }
 
 #links a {
-text-decoration: none;
+    text-decoration: none;
 }
 
 #links a:hover {
     border-bottom: 1px solid black;
-   
+
 }
 
 #colorpens {
@@ -64,32 +67,32 @@ text-decoration: none;
 
 
 #creative {
-    font-family: cursive; 
-    font-size: 400%;
-  position: absolute;
-  top: 25%;
-  width: 100%;
-  text-align: center;
-  color: rgb(0, 0, 0);
+    font-family: inherit;
+    font-size: 35px;
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    color: rgb(0, 0, 0);
 }
 
 
 
 
 
-#about{
+#about {
     align-items: center;
     background-color: blanchedalmond;
-    
+
 }
 
-#best-section   {
+#best-section {
     font-size: 25px;
     background-color: antiquewhite;
     text-align: center;
 }
 
-#about-image{
+#about-image {
     float: right;
 }
 
@@ -97,17 +100,17 @@ text-decoration: none;
 
 
 #para {
-        font-size: 20px;
-        width: 50%;
-    }
+    font-size: 20px;
+    width: 50%;
+}
 
-    #time {
-        margin-left: auto;
-        margin-right: auto;
-        text-align: center;
-        font-size: 20px;
+#time {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 20px;
 
-    }
+}
 
 
 
@@ -134,7 +137,7 @@ text-decoration: none;
 
 /* gallery section */
 
-#artgallery{
+#artgallery {
     clear: both;
     line-height: 0;
     column-count: 4;
@@ -146,7 +149,7 @@ text-decoration: none;
     background-color: blanchedalmond;
 }
 
-#artgallery > img{
+#artgallery>img {
     width: 100%;
 }
 
@@ -156,14 +159,24 @@ text-decoration: none;
 
 
 #tableA {
+    border: 1px solid black;
     text-align: center;
     font-size: 15px;
     width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-    border-collapse: collapse;
-    background-color: rgb(10, 245, 2);
+    margin-left:
+        auto;
+    margin-right:
+        auto;
+    margin-bottom:
+        20px;
+    background-color:
+        rgb(10, 245, 2);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
 }
 
 
@@ -207,7 +220,7 @@ footer {
     font-size: 14px;
 }
 
-.socials    {
+.socials {
     list-style: none;
     display: flex;
     align-items: center;
@@ -221,24 +234,16 @@ footer {
     padding: 0;
 }
 
-.socials a{
+.socials a {
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
 
-.socials a i{
-font-size: 2rem;
-transition: color .4s ease;
+.socials a i {
+    font-size: 2rem;
+    transition: color .4s ease;
 }
 
-.socials a:hover i{
+.socials a:hover i {
     color: rgb(4, 247, 17);
 }
-
-
-
-
-
-
-
-
