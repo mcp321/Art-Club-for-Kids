@@ -32,14 +32,12 @@ This section will allow the user to easily navigate from page to page across all
 <img src="assets/images/page-links.png">
 
 
-
 <h2>The Landing Page image</h2>
 <ul>
 <li>The landing page image contains colored pencils picture with a phrase "Lets unleash your child's creative mind."
 for me it’s a very strong catch phrase it grabs the attention of the parents who like to enroll their kids to the art class.</li>
 </ul>
 <img src="assets/images/hero-image.png">
-
 
 <h2>About us</h2>
 <ul>
@@ -59,7 +57,6 @@ they may choose from drawing class, painting class and coloring class based on t
 <h2>Footer</h2>
 This section contains our social media handles where the parents can see the classrooms environment and the activities of the  kids through our social media accounts.
 
-
 <img src="assets/images/footer.png">
 
 <h2>Gallery</h2>
@@ -72,20 +69,25 @@ also can see the class room environment where their children are at.
 
 <img src="assets/images/gallery.png">
 
-
 <h2>Features left to implement</h2>
 <ul>
 <li>In the future we will add a Sign up section, where the parents can easily sign up their child through the webpage
 just by summiting their name and email address.</li>
 </ul>
 
-
-<h2>Validation Testing</h2>
+<h2>Testing</h2>
+<ul>
+<li> tested that it works on different browsers chrome,safari</li>
+<li>The project is responsive on mobile divices and other small screen devices</li>
+</ul>
+<h3>Validator Testing</h3>
 <ul>
 <li>No Errors found on HTML</li>
 <li>No Errors found on CSS</li>
+<li>Accesibility</li>
+The colors and fonts that was used on the website are easy to read and has a good acessibility score from lighthouse.
 </ul>
-
+<img src="assets/images/accesibility.png">
 
 
 <h2>Deployment</h2>
@@ -103,6 +105,7 @@ Once the master branch has been selected, the page will be automatically refresh
 <li>The design of the hero image was inspired by the love running project hero image which is 100% of the top page.</li>
 <li>The footer was inspired by the YouTube page named "code opacity".
 Icons from the footer section was taken from font awesome</li>
+<li>The gallery section was taked from the gallery of the love running project</li>
 </ul>
 
 <h3>Media</h3>
@@ -110,12 +113,12 @@ Icons from the footer section was taken from font awesome</li>
 <li>All the photos on this website (gallery section included) was downloaded from pecxels except for one photo in the about section which I took myself.</li>
 </ul>
 
-
 <h3>Acknowledgements</h3>
 <ul>
 <li>My mentor for the very good planning, suggestions and feedback</li>
 <li>Tutor support</li>
 </ul>
+
 
 
 
