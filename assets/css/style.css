@@ -179,7 +179,7 @@ h1 {
 
 
 
-#tableA {
+#table1 {
     border: 1px solid black;
     text-align: center;
     font-size: 15px;
@@ -195,7 +195,7 @@ h1 {
 }
 
 @media screen and (max-width: 520px){
-    #tableA{
+    #table1{
         width: 318px;
         height: 505px;
     }
