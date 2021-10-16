@@ -12,14 +12,13 @@ We will help them find the approach that will best work for them.</p>
 <li>CSS</li>
 </ul>
 
-
 <h3>Frameworks, Libraries & Program Used</h3>
 <ul>
-<li>Google Fonts- Used to import fonts to style.css file whice used on the pages of the website.</li>
+<li> [Google Fonts](https://fonts.google.com/) - Used to import fonts to style.css file whice used on the pages of the website.</li>
 <li>Hover.css- Was used on the social media icons in the footer to add changing color while being hovered over by the user.</li>
 <li>Git-Was used for version control by utilizing the Gitpod terminal to commit to git and push to Github.</li>
-<li>Github-Was used to store projects.</li>
-<li>Pecxels- Was used to import photos that was used for the project.</li>
+<li>[Github](https://github.com/)-Was used to store projects.</li>
+<li>[Pecxels](https://www.pexels.com/)- Was used to import photos that was used for the project.</li>
 </ul>
 <h2>FEATURES</h2>
 Navigation BAR
@@ -97,8 +96,8 @@ Once the master branch has been selected, the page will be automatically refresh
 <h2>Credits</h2>
 <h3>Content</h3>
 <ul>
-<li>The design of the hero image was inspired by the love running project hero image which is 100% of the top page.
-The footer was inspired by the YouTube page named "code opacity".
+<li>The design of the hero image was inspired by the love running project hero image which is 100% of the top page.</li>
+<li>The footer was inspired by the YouTube page named "code opacity".
 Icons from the footer section was taken from font awesome</li>
 </ul>
 
