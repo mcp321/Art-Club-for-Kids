@@ -176,11 +176,12 @@ h1 {
 @media screen and (max-width: 750px) {
 #artgallery{
     column-count: 2;
-}
+    padding-left: 10px;
+    padding-right: 10px;
 
 }
 
-
+}
 
 
 
