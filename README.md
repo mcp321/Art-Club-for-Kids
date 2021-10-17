@@ -1,13 +1,31 @@
 # CREATIVE CHILD
+
 Creative child is a website focusing on kids who loves to do art, 
 we also specialize on kids who likes art but thinks they are not good at it.
 We will help them find the approach that will best work for them.
 
-## Technologies used
-### Languages Used
+## Languages Used
 
 * HTML
 * CSS 
+
+## User Goals
+* Users can choose several art classes where they can enroll their child.
+* Users can also see an art gallery of the classroom setting.
+* finally users can connect to us though our social media pages.
+
+## Structure of the website
+
+The website is designed to be easy and user-friendly, as soon as you open the website everything you need is within a single click. On the top-right of the page you can see the menu buttons which will bring you to every section of the page.
+
+## Surface
+### Main colors used in the project
+
+* Background: blanchedalmond
+* Font color: Black
+* Hover color: Green
+
+
 
 ### Frameworks, Libraries & Program Used
 * [Google Fonts](https://fonts.google.com/) - Used to import fonts to style.css file whice used on the pages of the website.
@@ -66,8 +84,8 @@ just by summiting their name and email address.
 *  The project is responsive on mobile devices and other small screen device
 
 ### Validator Testing
-* No Errors found on HTML
-* No Errors found on CSS
+* [HTML](https://validator.w3.org/#validate_by_input) Validator was used and no erros was found.
+* [CSS](https://jigsaw.w3.org/css-validator/) Validator was used and no erros was found.
 * Accessibility
   * The colors and fonts that was used on the website are easy to read and has a good accessibility score from lighthouse.
 
@@ -85,6 +103,7 @@ Once the master branch has been selected, the page will be automatically refresh
 ## Credits
 
 ### Content
+* [w3schools](https://www.w3schools.com/) For ideas and how to properly use some codes.
 * The design of the hero image was inspired by the love running project hero image which is 100% of the top page.
 * The footer was inspired by the YouTube page named "code opacity".
 Icons from the footer section was taken from font awesome.
@@ -94,5 +113,5 @@ Icons from the footer section was taken from font awesome.
 * All the photos on this website (gallery section included) was downloaded from [pexels](https://www.pexels.com/) except for one photo in the about section which I took myself.
 
 ## Acknowledgements
-* My mentor for the very good planning, suggestions and feedback
+* My mentor for the very good planning, suggestions and feedback.
 * Tutor support
