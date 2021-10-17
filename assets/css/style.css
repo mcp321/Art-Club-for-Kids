@@ -90,14 +90,12 @@ h1 {
 }
 
 
-
 @media screen and (max-width: 925px){
     #creative  {
-      font-size: 15px;
+      font-size: 20px;
       text-align: center;
       position: absolute;
     }
-  
 
 }
 
@@ -173,6 +171,13 @@ h1 {
 
 #artgallery>img {
     width: 100%;
+}
+
+@media screen and (max-width: 750px) {
+#artgallery{
+    column-count: 2;
+}
+
 }
 
 
