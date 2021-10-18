@@ -14,11 +14,11 @@ body {
 
 @media screen and (max-width: 550px){
     body{
-width: fit-content;
-
-    }
-}
-
+ width: fit-content;
+ overflow-x: hidden;
+ 
+     }
+ }
 
 
 h1 {
@@ -288,3 +288,5 @@ footer {
 width: inherit;
     }
 }
+
+
