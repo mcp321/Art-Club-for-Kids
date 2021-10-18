@@ -14,12 +14,10 @@ body {
 
 @media screen and (max-width: 550px){
     body{
-width: min-content;
-overflow-x: hidden;
+width: fit-content;
+
     }
-    
 }
-    
 
 
 
