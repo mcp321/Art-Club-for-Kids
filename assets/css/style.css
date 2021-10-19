@@ -5,6 +5,13 @@
     margin: 0;
 }
 
+html, body {
+width: 100%;
+overflow-x: hidden;
+margin: 0px;
+padding: 0px;
+}
+
 body {
     margin: 0;
     font-family: lato, sans-serif;
@@ -12,12 +19,13 @@ body {
     color: black;
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 500px){
     body{
  width: fit-content;
  overflow-x: hidden;
  
      }
+    
  }
 
 
@@ -73,7 +81,10 @@ h1 {
 @media screen and (max-width: 925px){
     #links {
        float: left;
-       font-size: 13px;
+       font-size: 10px;
+    }
+    #title{
+        font-size: 30px;
     }
 }
 
@@ -82,9 +93,9 @@ h1 {
 #creative {
     font-family: inherit;
     font-size: 30px;
-    position: absolute;
+   position: absolute;
     top: 25%;
-    width: 100%;
+    width: 90%;
     text-align: center;
     color: rgb(0, 0, 0);
 }
@@ -94,7 +105,6 @@ h1 {
     #creative  {
       font-size: 20px;
       text-align: center;
-      position: absolute;
     }
 
 }
@@ -144,6 +154,11 @@ h1 {
     margin-bottom: 5px;
     height: 600px;
     width: 100%;
+}
+#daily {
+    width: 100%;
+    text-align: center;
+    position: relative;
 }
 
 .frame1 {
@@ -206,9 +221,10 @@ h1 {
         height: 505px;
     }
     #daily {
-        font-size: 25px;
+        font-size: 30px;
         height: 78px;
-        width: 500px;
+        width: 100%;
+        text-align: center;
     }
 
 
@@ -288,5 +304,3 @@ footer {
 width: inherit;
     }
 }
-
-
